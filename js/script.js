@@ -1,9 +1,9 @@
 document.getElementById('generateButton').addEventListener('click', function() {
   var name = document.getElementById('typingPad').value;
   var messages = [
-    `May Goddess Lakshmi bless your home with love and prosperity. Happy Dhanteras! , ${name}.`,
-    `Let's celebrate the festival of wealth and well-being with a heart full of gratitude to you , ${name}.`,
-    `In the garden of life, friends like you are the most beautiful blossoms. Happy Dhanteras, my dear friend! , ${name}!`
+    `May Goddess Lakshmi bless your home and prosperity. Happy Dhanteras! , ${name} ,by Subhash Choudhary.`,
+    ` ${name} ,Let's celebrate the festival of wealth and well-being with a heart full of gratitude to you by Subhash Choudhary.`,
+    `In the garden of life, friends like you , ${name} ,are the most beautiful blossoms. Happy Dhanteras, your dear friend Subhash Choudhary `
   ];
 
   var randomIndex = Math.floor(Math.random() * messages.length);
