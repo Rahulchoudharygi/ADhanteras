@@ -842,11 +842,11 @@ button {
 #messageArea {
      background-color: lightgreen;
      border: 1px solid #ccc;
-     padding-top: 20px;
-     padding-bottom:20px;
+     padding-top: 5px;
+     padding-bottom:5px;
      width: 90%;
      margin-bottom: 20px;
-     font-size: 40px;
+     font-size: 25px;
      margin-top: 20px;
      margin-left: 5%;
    }
@@ -854,7 +854,7 @@ button {
    #typingPad {
      width: 90%;
      margin-bottom: 20px;
-     font-size: 40px;
+     font-size: 25px;
      margin-top: 20px;
      margin-left: 5%;
      height: 100px;
